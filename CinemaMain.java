@@ -1,5 +1,3 @@
-package Collections.Cinema;
-
 /* by Wfmx
  * 09.2022
  */
